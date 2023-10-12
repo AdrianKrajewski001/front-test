@@ -27,4 +27,3 @@ const List = () => {
 };
 
 export default List;
-//templateColumns="repeat(3, 1fr)"
